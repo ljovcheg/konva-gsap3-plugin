@@ -1,5 +1,7 @@
 # konva-gsap3-plugin
 
+*Add konva_gsap3_plugin.js file after adding gsap library*
+
 Usage
 ```javascript
 gsap.to(konvaobject, {
